@@ -6,7 +6,6 @@ import { init, closeGuideline, nextTip } from 'guideline-tip-id/dist/react'
 function App() {
 
     const dataProps = {
-        closeButton: false,
         dataGuideline: [
             {
                 dataID: "article",
